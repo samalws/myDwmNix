@@ -1,0 +1,1 @@
+git format-patch --stdout origin/HEAD > ../dwmConfig.diff
